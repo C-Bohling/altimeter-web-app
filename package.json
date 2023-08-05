@@ -2,6 +2,7 @@
   "name": "altimeter-web-app",
   "version": "0.1.0",
   "private": false,
+  "homepage": "https://c-bohling.github.io/altimeter-web-app/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.17.0",
