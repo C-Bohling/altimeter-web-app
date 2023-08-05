@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/altimeter-web-app/static/css/main.8c20ffd7.css",
+    "main.css": "/altimeter-web-app/static/css/main.a5916f41.css",
     "main.js": "/altimeter-web-app/static/js/main.f3fdca2f.js",
     "static/js/787.2bb33370.chunk.js": "/altimeter-web-app/static/js/787.2bb33370.chunk.js",
     "index.html": "/altimeter-web-app/index.html",
-    "main.8c20ffd7.css.map": "/altimeter-web-app/static/css/main.8c20ffd7.css.map",
+    "main.a5916f41.css.map": "/altimeter-web-app/static/css/main.a5916f41.css.map",
     "main.f3fdca2f.js.map": "/altimeter-web-app/static/js/main.f3fdca2f.js.map",
     "787.2bb33370.chunk.js.map": "/altimeter-web-app/static/js/787.2bb33370.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c20ffd7.css",
+    "static/css/main.a5916f41.css",
     "static/js/main.f3fdca2f.js"
   ]
 }
