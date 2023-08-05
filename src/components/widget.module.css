@@ -1,0 +1,40 @@
+.widget {
+    background-color: #153168;
+    color:white;
+    padding: 2rem;
+    border-radius: 0.6rem;
+    box-shadow: 0 0 2rem #072462;
+    flex: 1 0 calc(33vw - 8rem);
+    display:grid;
+    grid-template-rows: 4rem 1fr 4rem;
+    max-width: 100%;
+}
+
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.widget h2 {
+    font-size: 2rem;
+}
+
+.loading {
+    background-color:#15316880;
+    color:rgba(255, 255, 255, 0.5) !important;
+}
+
+.loading-text {
+    font-size: 1.75rem;
+}
+
+.actions {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.error-message {
+    color:rgba(255, 0, 0, 0.728);
+}

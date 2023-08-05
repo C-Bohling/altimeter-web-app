@@ -1,0 +1,14 @@
+.focus-number {
+    font-size: 6rem;
+}
+
+.focus-number.loading {
+    font-size: 2.5rem;
+    background-color: #0000 !important;
+    color:inherit
+}
+
+p {
+    margin: 0;
+    font-size: 1.25rem;
+}
