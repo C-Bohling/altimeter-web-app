@@ -10,8 +10,8 @@ const Elevation = () => {
 
     return (
         <Widget loading={loading || (elevation === null)} title='Elevation-o-meter' hasError={error} errorMsg={errorMsg}>
-            <p className={styles['focus-number']}>{elevation}</p>
-            <p>Meters Above Sea Level</p>
+            <p className={styles['focus-number']}>{Math.round(elevation * 3.28084)}</p>
+            <p>Feet Above Sea Level</p>
             <p>Accuracy: {accuracy}</p>
         </Widget>
     );
