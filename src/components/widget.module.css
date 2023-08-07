@@ -8,6 +8,13 @@
     display:grid;
     grid-template-rows: 4rem 1fr 4rem;
     max-width: 100%;
+
+}
+
+@media screen and (orientation: portrait) {
+    .widget {
+        width: 100%;
+    }
 }
 
 .centered-container {
